@@ -2,13 +2,13 @@
 
 Kkara is a local bakery located in Beitar Illit on HaHozeh MiLublin Street. The bakery specializes in fresh baked goods including rolls and baguettes sold at affordable bulk prices, catering to the local community with simple, wholesome bread products.
 
-Source: https://example.com
+Source: https://kakhara.zappy5.app
 
 ---
 
 ## לחם טרי בכל בוקר בביתר עילית — ככרא
 
-URL: https://example.com
+URL: https://kakhara.zappy5.app
 Description: ככרא היא המאפייה השכונתית שלך ברחוב החוזה מלובלין בביתר עילית. לחמניות, באגטים ומאפים טריים במחירים סיטונאיים משתלמים. בואו לטעום את ההבדל!
 
 לחם טרי בכל בוקר בביתר עילית — ככרא
@@ -65,6 +65,7 @@ Description: ככרא היא המאפייה השכונתית שלך ברחוב �
 
 
 צור קשר
+
 
 
 
@@ -494,7 +495,7 @@ Description: ככרא היא המאפייה השכונתית שלך ברחוב �
 
 ## מאפים טריים במחיר סיטונאי — ככרא
 
-URL: https://example.com/products
+URL: https://kakhara.zappy5.app/products
 Description: גלו את מגוון המוצרים הטריים של ככרא: לחמניות פריכות, באגטים זהובים ועוד מאפים ביתיים. כל המוצרים נאפים מדי יום ונמכרים בכמויות במחירים שלא תמצאו בשום מקום אחר.
 
 מאפים טריים במחיר סיטונאי — ככרא
@@ -963,7 +964,7 @@ Description: גלו את מגוון המוצרים הטריים של ככרא: �
 
 ## הסיפור מאחורי הלחם הכי טרי בעיר — ככרא
 
-URL: https://example.com/about
+URL: https://kakhara.zappy5.app/about
 Description: ככרא נולדה מאהבה אמיתית ללחם טוב ולקהילה של ביתר עילית. למדו על הערכים שלנו, על המתכונים הפשוטים והטבעיים ועל המחויבות שלנו להגיש לכם מאפים ישרים מהתנור בכל יום.
 
 הסיפור מאחורי הלחם הכי טרי בעיר — ככרא
@@ -1334,7 +1335,7 @@ Description: ככרא נולדה מאהבה אמיתית ללחם טוב ולק�
 
 ## מצאו אותנו ברחוב החוזה מלובלין — ככרא
 
-URL: https://example.com/contact
+URL: https://kakhara.zappy5.app/contact
 Description: רוצים להזמין כמויות, לשאול על המוצרים או פשוט לדעת מתי אנחנו פותחים? צרו קשר עם מאפיית ככרא בביתר עילית ונשמח לעזור. אנחנו ממש קרובים אליכם!
 
 מצאו אותנו ברחוב החוזה מלובלין — ככרא
@@ -1728,7 +1729,7 @@ Description: רוצים להזמין כמויות, לשאול על המוצרי�
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://kakhara.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1993,7 +1994,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://kakhara.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2267,7 +2268,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://kakhara.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

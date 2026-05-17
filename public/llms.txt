@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://kakhara.zappy5.app
 ככרא היא המאפייה השכונתית שלך ברחוב החוזה מלובלין בביתר עילית. לחמניות, באגטים ומאפים טריים במחירים סיטונאיים משתלמים. בואו לטעום את ההבדל!
 
 ### מוצרים
-https://example.com/products
+https://kakhara.zappy5.app/products
 גלו את מגוון המוצרים הטריים של ככרא: לחמניות פריכות, באגטים זהובים ועוד מאפים ביתיים. כל המוצרים נאפים מדי יום ונמכרים בכמויות במחירים שלא תמצאו בשום מקום אחר.
 
 ### אודות
-https://example.com/about
+https://kakhara.zappy5.app/about
 ככרא נולדה מאהבה אמיתית ללחם טוב ולקהילה של ביתר עילית. למדו על הערכים שלנו, על המתכונים הפשוטים והטבעיים ועל המחויבות שלנו להגיש לכם מאפים ישרים מהתנור בכל יום.
 
 ### צור קשר
-https://example.com/contact
+https://kakhara.zappy5.app/contact
 רוצים להזמין כמויות, לשאול על המוצרים או פשוט לדעת מתי אנחנו פותחים? צרו קשר עם מאפיית ככרא בביתר עילית ונשמח לעזור. אנחנו ממש קרובים אליכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://kakhara.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://kakhara.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://kakhara.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://kakhara.zappy5.app/contact
+- Endpoint: https://kakhara.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Bakery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://kakhara.zappy5.app/sitemap.xml
+- Robots: https://kakhara.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kakhara.zappy5.app/llms-full.txt

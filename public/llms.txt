@@ -1,0 +1,78 @@
+# ככרא — Generative Engine Optimization Map
+
+> Kkara is a local bakery located in Beitar Illit on HaHozeh MiLublin Street. The bakery specializes in fresh baked goods including rolls and baguettes sold at affordable bulk prices, catering to the local community with simple, wholesome bread products.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ככרא היא המאפייה השכונתית שלך ברחוב החוזה מלובלין בביתר עילית. לחמניות, באגטים ומאפים טריים במחירים סיטונאיים משתלמים. בואו לטעום את ההבדל!
+
+### מוצרים
+https://example.com/products
+גלו את מגוון המוצרים הטריים של ככרא: לחמניות פריכות, באגטים זהובים ועוד מאפים ביתיים. כל המוצרים נאפים מדי יום ונמכרים בכמויות במחירים שלא תמצאו בשום מקום אחר.
+
+### אודות
+https://example.com/about
+ככרא נולדה מאהבה אמיתית ללחם טוב ולקהילה של ביתר עילית. למדו על הערכים שלנו, על המתכונים הפשוטים והטבעיים ועל המחויבות שלנו להגיש לכם מאפים ישרים מהתנור בכל יום.
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין כמויות, לשאול על המוצרים או פשוט לדעת מתי אנחנו פותחים? צרו קשר עם מאפיית ככרא בביתר עילית ונשמח לעזור. אנחנו ממש קרובים אליכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ככרא
+Kkara is a local bakery located in Beitar Illit on HaHozeh MiLublin Street. The bakery specializes in fresh baked goods including rolls and baguettes sold at affordable bulk prices, catering to the local community with simple, wholesome bread products.
+
+## Target Audience
+- חובבי לחם טרי
+- חובבי בריאות
+- משפחות מקומיות
+
+## Industry
+Bakery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
